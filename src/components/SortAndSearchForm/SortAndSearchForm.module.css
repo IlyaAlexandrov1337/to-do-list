@@ -1,0 +1,13 @@
+.main {
+    padding: 10px 20px;
+    background: #a4d1ff;
+    border-radius: 20px;
+    margin: 20px 0;
+}
+.content {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}

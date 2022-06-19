@@ -1,0 +1,26 @@
+button {
+    padding: 5px 10px;
+    margin: 8px 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.delete {
+    background: brown;
+    border: none;
+    color: white;
+}
+
+.done {
+    background: forestgreen;
+    border: none;
+    color: white;
+}
+
+.remark {
+    border: 2px solid dodgerblue;
+}
+
+.submit {
+    border: 2px solid lightgray;
+}

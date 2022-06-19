@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    background: #ecff95;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+
+.btns {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 10px;
+}
